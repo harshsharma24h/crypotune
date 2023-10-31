@@ -127,9 +127,9 @@ const Coinpage = () => {
 
 
                                         </div>
-                                        <button onClick={() => dispatch(actionCreators.coinData(e.uuid))} className='btn btn-primary  my-3'>
+                                        {/* <button onClick={() => dispatch(actionCreators.coinData(e.uuid))} className='btn btn-primary  my-3'>
                                             Go somewhere
-                                        </button>
+                                        </button> */}
 
                                     </div>
                                 </div>
